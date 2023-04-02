@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car Plate</string>
+    <string name="spkodu">Plaka kodunu giriniz:</string>
+    <string name="bul">Bul</string>
+    <string name="sonuc">Şehir ismi</string>
+</resources>
